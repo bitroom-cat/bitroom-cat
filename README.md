@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there 👋, I'm Satyam Sharma
 
-<!--
-**bitroom-cat/bitroom-cat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here you'll find some of my projects, experiments, and contributions. I am passionate about **Machine Learning**, **Web Development**, **API Development ** , **Database Management**and exploring new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🌱 I’m currently learning: Advanced Machine Learning & Data Science
+- 💻 Skills: Python(pandas,numpy,scikit-learn,matplotlib,Flask), HTML,CSS, c++, SQL
+- 📫 How to reach me: [cometosatyam2@gmail.com](mailto:cometosatyam2@gmail.com)
+- ⚡ Fun fact: I love solving puzzles and creating mini projects for learning
+
+---
+
+## Sample Project Table
+
+| Domain             | Skills/Tools                    | Tech Stack       |
+|--------------------|---------------------------------|----------------|
+| Web development   | Python,HTML,CSS,RENDER,Flask             | [simple web portal/API](https://github.com/bitroom-cat/csc) |
+| Machine learning    | Python,flask,render         |  Available  on [CodeSphereHub](https://github.com/CodeSpherehub)  |
+|||
+---
+
+## Connect with Me
+
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7LDMikW9UGsW_RnTEMxrFH5oyK_AWGlmf4g&s" alt="Kaggle" width="70"/>](https://www.kaggle.com/satyam07066)
+[<img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="50"/>](https://www.instagram.com/sha_dow_saty_am)
+[<img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="50"/>](https://github.com/bitroom-cat)
+
+---
+
+## Skills
+
+[<img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="50"/>](https://www.python.org/)
+[<img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy" width="50"/>](https://numpy.org/)
+[<img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" width="50"/>](https://pandas.pydata.org/)
+[<img src="https://play-lh.googleusercontent.com/ekpyJiZppMBBxCR5hva9Zz1pr3MYlFP-vWTYR3eIU7HOMAmg3jCJengHJ1GFgFMyyYc" alt="Flask" width="50"/>](https://flask.palletsprojects.com/)
+[<img src="https://img.icons8.com/color/48/sql.png" alt="SQL" width="50"/>](https://www.mysql.com/)
+[<img src="https://img.icons8.com/color/48/c-plus-plus.png" alt="C++" width="50"/>](https://isocpp.org/)
+[<img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" width="50"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://img.icons8.com/color/48/css3.png" alt="CSS" width="50"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+
+
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bitroom-cat&show_icons=true&theme=radical)
+
