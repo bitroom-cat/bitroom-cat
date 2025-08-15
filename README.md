@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Satyam Sharma
 
-Welcome to my GitHub profile! Here you'll find some of my projects, experiments, and contributions. I am passionate about **Machine Learning**, **Web Development**, **API Development ** , **Database Management**and exploring new technologies.
+Welcome to my GitHub profile! Here you'll find some of my projects, experiments, and contributions. I am passionate about **Machine Learning**, **Web Development**, **API Development** , **Database Management** and exploring new technologies.
 
 ---
 
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! Here you'll find some of my projects, experiments,
 
 ## Sample Project Table
 
-| Domain             | Skills/Tools                    | Tech Stack       |
+| Domain             | Skills/Tools                    | PROJECTS       |
 |--------------------|---------------------------------|----------------|
 | Web development   | Python,HTML,CSS,RENDER,Flask             | [simple web portal/API](https://github.com/bitroom-cat/csc) |
 | Machine learning    | Python,flask,render         |  Available  on [CodeSphereHub](https://github.com/CodeSpherehub)  |
@@ -45,4 +45,17 @@ Welcome to my GitHub profile! Here you'll find some of my projects, experiments,
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bitroom-cat&show_icons=true&theme=radical)
+
+## 📝 My Learning Journey
+
+| Step | Topic / Skill | Progress | Languages Learned |
+|------|---------------|----------|-----------------|
+| 1    | Basics of Programming | █████▁▁ 80% | ![Python](https://img.icons8.com/color/48/python--v1.png) Python, ![C++](https://img.icons8.com/color/48/c-plus-plus.png) C++ |
+| 2    | Web Development | ███▁▁▁▁ 30% | ![HTML](https://img.icons8.com/color/48/html-5--v1.png) HTML, ![CSS](https://img.icons8.com/color/48/css3.png) CSS |
+| 3    | Database & SQL | ████▁▁ 50% | ![SQL](https://img.icons8.com/color/48/sql.png) SQL |
+| 4    | Advanced Python | ███▁▁▁▁ 30% | ![Python](https://img.icons8.com/color/48/python--v1.png) Python |
+| 5    | Java Basics | █▁▁▁▁▁ 10% | ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo.png) Java |
+| 6    | Full-Stack Projects | ██▁▁▁▁▁ 50% | Python, HTML, CSS, SQL, C++,Deployment |
+
+
 
