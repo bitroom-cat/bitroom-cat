@@ -7,6 +7,7 @@ Welcome to my GitHub profile! Here you'll find some of my projects, experiments,
 ## About Me
 - 🌱 I’m currently learning: Advanced Machine Learning & Data Science
 - 💻 Skills: Python(pandas,numpy,scikit-learn,matplotlib,Flask), HTML,CSS, c++, SQL
+- 💻 Frameworks: pandas,numpy,scikit-learn,matplotlib,Flask
 - 📫 How to reach me: [cometosatyam2@gmail.com](mailto:cometosatyam2@gmail.com)
 - ⚡ Fun fact: I love solving puzzles and creating mini projects for learning
 
