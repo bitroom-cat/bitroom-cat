@@ -20,6 +20,7 @@ Welcome to my GitHub profile! Here you'll find some of my projects, experiments,
 | Web development   | Python,HTML,CSS,RENDER,Flask             | [simple web portal/API](https://github.com/bitroom-cat/csc) |
 | Machine learning    | Python,flask,render         |  Available  on [CodeSphereHub](https://github.com/CodeSpherehub)  |
 |Portfolio web|Python,HTML,CSS,RENDER,Flask|repository Available  on [CodeSphereHub](https://basic-api-project.onrender.com)  |
+|A advance web application using Django   on [Satyamcomputereducation]([https://basic-api-project.onrender.com](https://satyamcomputereducation.onrender.com/))  |
 
 ---
 
@@ -57,7 +58,7 @@ Welcome to my GitHub profile! Here you'll find some of my projects, experiments,
 | 3    | Database & SQL | ████▁▁ 50% | ![SQL](https://img.icons8.com/color/48/sql.png) SQL |
 | 4    | Advanced Python | ███▁▁▁▁ 30% | ![Python](https://img.icons8.com/color/48/python--v1.png) Python |
 | 5    | Java Basics | █▁▁▁▁▁ 10% | ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo.png) Java |
-| 6    | Full-Stack Projects | ██▁▁▁▁▁ 50% | Python, HTML, CSS, SQL, C++,Deployment |
+| 6    | Full-Stack Projects | ██▁▁▁▁▁ 50% | Python, HTML, CSS, SQL, C++,Deployment,Django |
 
 
 
