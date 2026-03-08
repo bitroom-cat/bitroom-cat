@@ -1,13 +1,13 @@
 # Hi there 👋, I'm Satyam Sharma
 
-Welcome to my GitHub profile! Here you'll find some of my projects, experiments, and contributions. I am passionate about **Machine Learning**, **Web Development**, **API Development** , **Database Management** and exploring new technologies.
+Welcome to my GitHub profile! Here you'll find some of my projects, experiments, and contributions. I am passionate about **Machine Learning**, **Web Development**, **API Development** , **Database Management**, **AI-Automation**, **IOT-Developer** and exploring new technologies.
 
 ---
 
 ## About Me
-- 🌱 I’m currently learning: Advanced Machine Learning & Data Science
-- 💻 Skills: Python(pandas,numpy,scikit-learn,matplotlib,Flask), HTML,CSS, c++, SQL
-- 💻 Frameworks: pandas,numpy,scikit-learn,matplotlib,Flask
+- 🌱 I’m currently learning: Full stack web development
+- 💻 Skills: Python, HTML, CSS, c++, SQL, Vector Db, Basic-JS 
+- 💻 Frameworks: pandas,numpy,scikit-learn,matplotlib,Flask,Django,Angular js, 
 - 📫 How to reach me: [cometosatyam2@gmail.com](mailto:cometosatyam2@gmail.com)
 - ⚡ Fun fact: I love solving puzzles and creating mini projects for learning
 
@@ -19,8 +19,9 @@ Welcome to my GitHub profile! Here you'll find some of my projects, experiments,
 |--------------------|---------------------------------|----------------|
 | Web development   | Python,HTML,CSS,RENDER,Flask             | [simple web portal/API](https://github.com/bitroom-cat/csc) |
 | Machine learning    | Python,flask,render         |  Available  on [CodeSphereHub](https://github.com/CodeSpherehub)  |
-|Portfolio web|Python,HTML,CSS,RENDER,Flask|repository Available  on [CodeSphereHub](https://basic-api-project.onrender.com)  |
+|Portfolio web|Python,HTML,CSS,RENDER,Flask|repository Available  on [CodeSphereHub]([https://basic-api-project.onrender.com](https://codespherehub.onrender.com/satyamportfolio))  |
 |A advance web application | Python (Django),HTML, CSS, W3-CSS, Angular-JS  | Avaliable on [Satyamcomputereducation](https://satyamcomputereducation.onrender.com/)  |
+|Full stack Web application | Python (Django),HTML, CSS, W3-CSS, Supabase  | Avaliable on [Bababalaknath web](https://bababalaknath.onrender.com/)  
 
 ---
 
@@ -47,7 +48,7 @@ Welcome to my GitHub profile! Here you'll find some of my projects, experiments,
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bitroom-cat&show_icons=true&theme=radical)
+[![bitroom-cat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitroom-cat&show_icons=true&theme=radical)](https://github.com/bitroom-cat)
 
 ## 📝 My Learning Journey
 
