@@ -48,7 +48,9 @@ Welcome to my GitHub profile! Here you'll find some of my projects, experiments,
 
 ## GitHub Stats
 
-[![bitroom-cat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitroom-cat&show_icons=true&theme=radical)](https://github.com/bitroom-cat)
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bitroom-cat" alt="GitHub Achievements" />
+</div>
 
 ## 📝 My Learning Journey
 
