@@ -19,9 +19,11 @@ Welcome to my GitHub profile! Here you'll find some of my projects, experiments,
 |--------------------|---------------------------------|----------------|
 | Web development   | Python,HTML,CSS,RENDER,Flask             | [simple web portal/API](https://github.com/bitroom-cat/csc) |
 | Machine learning    | Python,flask,render         |  Available  on [CodeSphereHub](https://github.com/CodeSpherehub)  |
-|Portfolio web|Python,HTML,CSS,RENDER,Flask|repository Available  on [CodeSphereHub]([https://basic-api-project.onrender.com](https://codespherehub.onrender.com/satyamportfolio))  |
+|Portfolio web|Python,HTML,CSS,RENDER,Flask|Available  on [Satyam Sharma : Codespherehub]((https://codespherehub.onrender.com/satyamportfolio) |
 |A advance web application | Python (Django),HTML, CSS, W3-CSS, Angular-JS  | Avaliable on [Satyamcomputereducation](https://satyamcomputereducation.onrender.com/)  |
-|Full stack Web application | Python (Django),HTML, CSS, W3-CSS, Supabase  | Avaliable on [Bababalaknath web](https://bababalaknath.onrender.com/)  
+|Full stack Web application | Python (Django),HTML, CSS, W3-CSS, Supabase  | Avaliable on [Bababalaknath web](https://bababalaknath.onrender.com/) |
+|AI PC Assistant | Python , yolov8 , OCR, LLM, CustomTkinter  | Avaliable on [REPO : AI pc Assistant](https://github.com/bitroom-cat/ai-pc-assistant-) |
+
 
 ---
 
