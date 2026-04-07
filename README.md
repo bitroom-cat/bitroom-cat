@@ -24,6 +24,7 @@ Welcome to my GitHub profile! Here you'll find some of my projects, experiments,
 |Full stack Web application | Python (Django),HTML, CSS, W3-CSS, Supabase  | Avaliable on [Bababalaknath web](https://bababalaknath.onrender.com/) |
 |AI PC Assistant | Python , yolov8 , OCR, LLM, CustomTkinter  | REPO on [AI pc Assistant](https://github.com/bitroom-cat/ai-pc-assistant-) |
 |RAG model integration with web | Python , Django , REST api, LLM, Vector DB   | REPO on [NATIVE RAG MODEL ](https://github.com/bitroom-cat/RAG-model) |
+|A agentic chatbot application| Python (Django),HTML, CSS, vector Db , RAG, LLM, API(open weather, hotel data, chunks), Automation   | Avaliable on [Ecotrail](https://ecotrail-949y.onrender.com/)  |
 
 
 
